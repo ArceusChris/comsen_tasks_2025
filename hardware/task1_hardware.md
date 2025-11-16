@@ -308,8 +308,6 @@ Windows/Mac 用户直接运行安装程序即可。
 - [立创 EDA 官方文档](https://prodocs.lceda.cn/)
 - [嘉立创 PCB 设计规范](https://www.jlc.com/portal/vtechnology.html)
 - [硬件十万个为什么](https://www.mr-wu.cn/)
-- [电子工程专辑](https://www.eet-china.com/)
-- [ADI 技术文章](https://www.analog.com/cn/index.html)
 - [TI 在线培训](https://training.ti.com.cn/)
 - [野火电子教程](http://doc.embedfire.com/)
 
